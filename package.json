@@ -1,0 +1,19 @@
+{
+  "name": "damanage.github.io",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Damanage/damanage.github.io.git"
+  },
+  "author": "damanage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Damanage/damanage.github.io/issues"
+  },
+  "homepage": "https://github.com/Damanage/damanage.github.io#readme"
+}
